@@ -1,0 +1,15 @@
+C:\Users\SSA02\Desktop\Учеба\Repos\work\Verification_Work\bin\Debug\net6.0\Verification_Work.exe
+C:\Users\SSA02\Desktop\Учеба\Repos\work\Verification_Work\bin\Debug\net6.0\Verification_Work.deps.json
+C:\Users\SSA02\Desktop\Учеба\Repos\work\Verification_Work\bin\Debug\net6.0\Verification_Work.runtimeconfig.json
+C:\Users\SSA02\Desktop\Учеба\Repos\work\Verification_Work\bin\Debug\net6.0\Verification_Work.dll
+C:\Users\SSA02\Desktop\Учеба\Repos\work\Verification_Work\bin\Debug\net6.0\Verification_Work.pdb
+C:\Users\SSA02\Desktop\Учеба\Repos\work\Verification_Work\obj\Debug\net6.0\Verification_Work.csproj.AssemblyReference.cache
+C:\Users\SSA02\Desktop\Учеба\Repos\work\Verification_Work\obj\Debug\net6.0\Verification_Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSA02\Desktop\Учеба\Repos\work\Verification_Work\obj\Debug\net6.0\Verification_Work.AssemblyInfoInputs.cache
+C:\Users\SSA02\Desktop\Учеба\Repos\work\Verification_Work\obj\Debug\net6.0\Verification_Work.AssemblyInfo.cs
+C:\Users\SSA02\Desktop\Учеба\Repos\work\Verification_Work\obj\Debug\net6.0\Verification_Work.csproj.CoreCompileInputs.cache
+C:\Users\SSA02\Desktop\Учеба\Repos\work\Verification_Work\obj\Debug\net6.0\Verification_Work.dll
+C:\Users\SSA02\Desktop\Учеба\Repos\work\Verification_Work\obj\Debug\net6.0\refint\Verification_Work.dll
+C:\Users\SSA02\Desktop\Учеба\Repos\work\Verification_Work\obj\Debug\net6.0\Verification_Work.pdb
+C:\Users\SSA02\Desktop\Учеба\Repos\work\Verification_Work\obj\Debug\net6.0\Verification_Work.genruntimeconfig.cache
+C:\Users\SSA02\Desktop\Учеба\Repos\work\Verification_Work\obj\Debug\net6.0\ref\Verification_Work.dll

@@ -1,0 +1,15 @@
+C:\Users\SSA02\Desktop\Учеба\Repos\9 семинар\9_68\obj\Debug\net6.0\9_68.csproj.AssemblyReference.cache
+C:\Users\SSA02\Desktop\Учеба\Repos\9 семинар\9_68\obj\Debug\net6.0\9_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSA02\Desktop\Учеба\Repos\9 семинар\9_68\obj\Debug\net6.0\9_68.AssemblyInfoInputs.cache
+C:\Users\SSA02\Desktop\Учеба\Repos\9 семинар\9_68\obj\Debug\net6.0\9_68.AssemblyInfo.cs
+C:\Users\SSA02\Desktop\Учеба\Repos\9 семинар\9_68\obj\Debug\net6.0\9_68.csproj.CoreCompileInputs.cache
+C:\Users\SSA02\Desktop\Учеба\Repos\9 семинар\9_68\bin\Debug\net6.0\9_68.exe
+C:\Users\SSA02\Desktop\Учеба\Repos\9 семинар\9_68\bin\Debug\net6.0\9_68.deps.json
+C:\Users\SSA02\Desktop\Учеба\Repos\9 семинар\9_68\bin\Debug\net6.0\9_68.runtimeconfig.json
+C:\Users\SSA02\Desktop\Учеба\Repos\9 семинар\9_68\bin\Debug\net6.0\9_68.dll
+C:\Users\SSA02\Desktop\Учеба\Repos\9 семинар\9_68\bin\Debug\net6.0\9_68.pdb
+C:\Users\SSA02\Desktop\Учеба\Repos\9 семинар\9_68\obj\Debug\net6.0\9_68.dll
+C:\Users\SSA02\Desktop\Учеба\Repos\9 семинар\9_68\obj\Debug\net6.0\refint\9_68.dll
+C:\Users\SSA02\Desktop\Учеба\Repos\9 семинар\9_68\obj\Debug\net6.0\9_68.pdb
+C:\Users\SSA02\Desktop\Учеба\Repos\9 семинар\9_68\obj\Debug\net6.0\9_68.genruntimeconfig.cache
+C:\Users\SSA02\Desktop\Учеба\Repos\9 семинар\9_68\obj\Debug\net6.0\ref\9_68.dll
